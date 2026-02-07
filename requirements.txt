@@ -1,0 +1,6 @@
+Flask==3.0.0
+gTTS==2.5.0
+requests==2.31.0
+moviepy==1.0.3
+Werkzeug==3.0.1
+gunicorn==21.2.0
